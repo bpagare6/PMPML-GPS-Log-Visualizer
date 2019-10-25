@@ -3,6 +3,11 @@ COEP Hackathon Project on Pune Open Data of PMPML GPS Logs of 8 days 19/01/2019-
 
 Problem Statement: To Visualize the GPS Logs of PMPML and make animation of it.
 
+<p float="left">
+  <img src="Outputs/ByFolium.png" width="48%" height="400"/>
+  <img src="Outputs/ByGPSVisualizer.png" width="48%" height="400"/>
+</p>
+
 Approach:
 1. First Extract the given dataset from tar.gz file
 2. Make the clear Data Set by removing the irrelevent part
